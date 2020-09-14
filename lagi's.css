@@ -1,0 +1,32 @@
+ a:link {
+     color: yellow;
+     background-color: transparent;
+     text-decoration: tomato;
+ }
+ 
+ a:visited {
+     color: red;
+     background-color: transparent;
+     text-decoration: tomato;
+ }
+ 
+ a:hover {
+     color: powderblue;
+     background-color: transparent;
+     text-decoration: tomato;
+ }
+ 
+ a:active {
+     color: green;
+     background-color: transparent;
+     text-decoration: tomato;
+ }
+ 
+ h6 {
+     border: solid powderblue;
+     padding: 30px;
+ }
+ 
+ body {
+     background-image: url(imsad.jpg);
+ }
